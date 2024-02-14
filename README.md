@@ -49,6 +49,35 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abburisaikarthik&theme=tokyonight_duo" alt="karthik1124" /></p>
+
+</details>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="karthik1124's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abburisaikarthik&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abburisaikarthik&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+<br/>
+  </p>
+</details>
+
+<details><summary><h3>:point_up: Top Contributed Repos</h3></summary>
+
+----
+
+![](https://github-contributor-stats.vercel.app/api?username=abburisaikarthik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</details>
+
+
 <br>
   
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me 
