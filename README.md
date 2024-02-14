@@ -64,7 +64,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="karthik1124's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abburisikarthik&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="karthik1124's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abburisaikarthik&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abburisaikarthik&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
   </p>
